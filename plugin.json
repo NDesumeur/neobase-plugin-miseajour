@@ -1,0 +1,19 @@
+{
+  "id": "neobase.miseajour",
+  "name": "Mise à jour",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "La version de NeoBase, la recherche de mises à jour (téléchargement et redémarrage en un clic) et les plugins à mettre à jour.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "miseajour",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Système",
+  "mobile": false,
+  "system": true,
+  "dependencies": {},
+  "permissions": [
+    "full"
+  ]
+}
