@@ -1,0 +1,9 @@
+{
+  "pluginId": "neobase.miseajour",
+  "repo": "NDesumeur/neobase-plugin-miseajour",
+  "version": "1.0.0",
+  "sha256": "ab2c41edde177e22ea3ec4e71aa3837c76339d23a3f346f36b10a604e84f8d3c",
+  "approvedAt": "2026-10-31T22:44:05.992Z",
+  "neobase": ">=4.0.0",
+  "signature": "ZzftQc4Z5WcG/SoSc0tri0mrANQb0woGPbb5R5U8dcVZ5l+FFi3n2aYY2SR5E/PQl77exdS+z5OIUzTR/XCaAg=="
+}
